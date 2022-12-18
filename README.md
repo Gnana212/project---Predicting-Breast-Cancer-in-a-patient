@@ -38,7 +38,7 @@ By using the Accuracy_Score:
                 * Random Forest Classifier
                 * Decision Tree Classifier
                 * Kneighbours Classifier
-                * Supportr vector Classifier
+                * Support vector Classifier
                 * Gradient Boosting Classifier
                 * XGB Classifier
                  
